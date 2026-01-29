@@ -161,7 +161,6 @@ Este repositório faz parte da minha trilha de especialização em Inteligência
 * [**Cognitive Search**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive) - Mineração de conhecimento com busca inteligente.
 * [**Azure Speech**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech) - Reconhecimento de fala e conversão de texto.
 * [**Azure Vision**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision) - Análise de imagens e OCR.
-* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
 
 ---
 
