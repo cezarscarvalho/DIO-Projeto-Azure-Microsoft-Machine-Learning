@@ -164,7 +164,14 @@ Este repositório faz parte da minha trilha de especialização em Inteligência
 
 ---
 
-* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+ # 🤝 Contribuição em Projetos Open Source
+
+[![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+Repositório focado no aprendizado do fluxo de trabalho colaborativo (Git Flow). Aqui documento o processo de **Fork, Clone, Pull Request e Code Review**, competências essenciais para qualquer profissional que atue em times de tecnologia modernos e ágeis.
+
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source)
 
 
 ## ✉️ Contato
