@@ -1,3 +1,20 @@
+# 🤖 Machine Learning Automatizado no Azure - Previsão de Vendas
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
+
+## 📝 Resumo Profissional
+Neste projeto, apliquei conceitos de **Machine Learning Automatizado (AutoML)** para resolver um problema de regressão: prever a demanda de aluguel de bicicletas com base em dados históricos. 
+
+Como futuro Gestor de TI e Analista de Customer Success, entendo que a análise preditiva é vital para que empresas antecipem necessidades dos clientes e otimizem recursos. Utilizei o **Azure Machine Learning** para treinar e avaliar modelos, identificando o algoritmo de melhor desempenho sem a necessidade de codificação complexa, focando na inteligência de dados.
+
+## 🚀 O que foi desenvolvido:
+* Configuração do Workspace no Azure ML.
+* Importação e tratamento de conjunto de dados (dataset).
+* Execução de treinamento com AutoML.
+* Análise de métricas de performance (Resíduos, RMSE).
+
+---  
+
 ![image](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/721a73fe-865b-4416-a2cf-f5ef7a9a3eff)
 
 
@@ -105,3 +122,24 @@ Testar
 # O Resultado foi o discriminado abaixo
 
 ![Resultado Json](https://github.com/cezarscarvalho/DIO-Azure-Microsoft-Projetos/assets/158849910/eed979f6-756a-406e-9787-48b8656aac3c)
+
+---
+
+## 📚 Outros Projetos de IA e Cloud (Microsoft Azure)
+
+Este repositório faz parte da minha trilha de especialização em Inteligência Artificial. Confira outros projetos realizados:
+
+* [**IA Generativa e Copilot**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-IA-Generativa) - Exploração de modelos de linguagem e prompts.
+* [**Cognitive Search**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Cognitive) - Mineração de conhecimento com busca inteligente.
+* [**Azure Speech**](https://github.com/cezarscarvalho/DIO-Projeto-Microsoft-Speech) - Reconhecimento de fala e conversão de texto.
+* [**Azure Vision**](https://github.com/cezarscarvalho/DIO-Projeto-Azure-Microsoft-Vision) - Análise de imagens e OCR.
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+---
+
+## ✉️ Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezar-de-souza-carvalho-ti/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511988541006)
+
