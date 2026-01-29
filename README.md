@@ -137,6 +137,9 @@ Este repositório faz parte da minha trilha de especialização em Inteligência
 
 ---
 
+* [**Contribuição Open Source**](https://github.com/cezarscarvalho/dio-lab-open-source) - Boas práticas de colaboração no GitHub.
+
+
 ## ✉️ Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cezar.souza03@gmail.com)
